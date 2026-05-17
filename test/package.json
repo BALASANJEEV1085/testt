@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "5.0.0-beta.3",
     "lodash": "4.17.21",
-    "handlebars": "4.0.5",
+    "handlebars": "4.5.3",
     "node-serialize": "0.0.4",
     "serialize-javascript": "7.0.3"
   }
